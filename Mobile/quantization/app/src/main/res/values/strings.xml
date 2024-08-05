@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">quantization</string>
+
+    <string-array name="models">
+        <item>LeNet 300-100</item>
+        <item>AlexNet</item>
+        <item>ResNet18</item>
+        <item>ResNet50</item>
+        <item>MobileNetV1</item>
+        <item>MobileNetV2</item>
+    </string-array>
+
+    <string-array name="datasets">
+        <item>MNIST</item>
+        <item>Cifar10</item>
+    </string-array>
+</resources>
